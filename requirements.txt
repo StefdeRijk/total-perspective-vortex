@@ -1,0 +1,9 @@
+matplotlib
+mne
+joblib
+scipy
+scikit-learn
+PyQt5
+numpy
+pyyaml
+jupyter

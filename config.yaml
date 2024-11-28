@@ -1,0 +1,5 @@
+SUBJECTS: [1] #leave empty to select all subjects
+MODE: all #all, train, predict
+TRANSFORMER: CSP #CSP, SPoC
+EXPERIMENT: imagery_vs_action__feets
+#hands_vs_feet__action, hands_vs_feet__imagery, imagery_vs_action__hands, imagery_vs_action__feets
